@@ -48,6 +48,8 @@
 	2. make
 	3. sudo insmod cmpe283-1.ko
 	4. demsg
+	
+* Additional - Removed debian/certs/debian-uefi-certs.pem string from the .congif file to resolve the certificate error during the make.
 
 
 
